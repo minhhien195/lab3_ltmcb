@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\chat_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\chat_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\chat_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\chat_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\chat_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\chat_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|e:\\hk4_uit\\ltmcb\\lab\\lab3\\lab3_socket\\lab3_socket\\bai3_tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\bai3_tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\bai3_tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\bai3_tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\bai3_tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\bai3_tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\chuyenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\chuyenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\chuyenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\chuyenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\lab3_bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\lab3_bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\chat_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\chat_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\bai3_tcpclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\bai3_tcpclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\lab3_socket\\bai1_udpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95FBB082-1319-4240-A6F6-F4E9E8BC4EF9}|LAB3_SOCKET\\LAB3_SOCKET.csproj|solutionrelative:lab3_socket\\bai1_udpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai3_TCPClient.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Bai3_TCPClient.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\Bai3_TCPClient.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Bai3_TCPClient.cs",
+              "RelativeToolTip": "LAB3_SOCKET\\Bai3_TCPClient.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAUwBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:34:35.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai3_TCPServer.cs [Design]",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Bai3_TCPServer.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\Bai3_TCPServer.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Bai3_TCPServer.cs [Design]",
+              "RelativeToolTip": "LAB3_SOCKET\\Bai3_TCPServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:32:21.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat_Client.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Chat_Client.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\Chat_Client.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Chat_Client.cs",
+              "RelativeToolTip": "LAB3_SOCKET\\Chat_Client.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAewGQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:38:16.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chat_Client.cs [Design]",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Chat_Client.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\Chat_Client.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Chat_Client.cs [Design]",
+              "RelativeToolTip": "LAB3_SOCKET\\Chat_Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:33:33.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai3_TCPServer.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Bai3_TCPServer.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\Bai3_TCPServer.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Bai3_TCPServer.cs",
+              "RelativeToolTip": "LAB3_SOCKET\\Bai3_TCPServer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwBkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:32:23.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat_Server.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Chat_Server.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\Chat_Server.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Chat_Server.cs",
+              "RelativeToolTip": "LAB3_SOCKET\\Chat_Server.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAtwF8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:02:11.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChuyenForm.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\ChuyenForm.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\ChuyenForm.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\ChuyenForm.cs",
+              "RelativeToolTip": "LAB3_SOCKET\\ChuyenForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA2wD4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:12:24.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChuyenForm.cs [Design]",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\ChuyenForm.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\ChuyenForm.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\ChuyenForm.cs [Design]",
+              "RelativeToolTip": "LAB3_SOCKET\\ChuyenForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:12:21.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Program.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\Program.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Program.cs",
+              "RelativeToolTip": "LAB3_SOCKET\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:42:05.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lab3_Bai4.cs [Design]",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Lab3_Bai4.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\Lab3_Bai4.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Lab3_Bai4.cs [Design]",
+              "RelativeToolTip": "LAB3_SOCKET\\Lab3_Bai4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:24:50.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Chat_Server.cs [Design]",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Chat_Server.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\Chat_Server.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Chat_Server.cs [Design]",
+              "RelativeToolTip": "LAB3_SOCKET\\Chat_Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:01:38.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bai3_TCPClient.Designer.cs",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Bai3_TCPClient.Designer.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\Bai3_TCPClient.Designer.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Bai3_TCPClient.Designer.cs",
+              "RelativeToolTip": "LAB3_SOCKET\\Bai3_TCPClient.Designer.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAvwDYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:49:29.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bai1_UDPServer.cs [Design]",
+              "DocumentMoniker": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Bai1_UDPServer.cs",
+              "RelativeDocumentMoniker": "LAB3_SOCKET\\Bai1_UDPServer.cs",
+              "ToolTip": "E:\\HK4_UIT\\LTMCB\\Lab\\Lab3\\LAB3_SOCKET\\LAB3_SOCKET\\Bai1_UDPServer.cs [Design]",
+              "RelativeToolTip": "LAB3_SOCKET\\Bai1_UDPServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T01:40:03.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
